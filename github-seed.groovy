@@ -1,4 +1,5 @@
 /**
+ * https://jenkinsci.github.io/job-dsl-plugin/#
  * Parameters :
  * @param projectName (String). Github's project name, will be used as base for every job name
  * @param owner (String). Github's project owner
